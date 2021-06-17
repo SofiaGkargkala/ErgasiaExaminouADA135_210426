@@ -70,28 +70,53 @@ Tο βασικό θεώρημα του Ferdinand de Saussure (Saussure 1979: 99-
 ## Βιβλιογραφία
 
 Allen, William Sidney. 1987. Vox Graeca. *Η προφορά της ελληνικής την κλασική εποχή [Vox Graeca. The Pronunciation of Classical Greek].* Translated by Μ. Karali & G. M. Parassoglou (transl.). 1st ed. 2000, 1st repr. 2003 ed: Cambridge University Press.
+
 Beardsley, Monroe C. 1989. *Ιστορία των αισθητικών θεωριών: από την κλασική αρχαιότητα μέχρι σήμερα.*
+
 Ching, Marvin KL, Michael C Haley, and Ronald F Lunsford. 2014. *Linguistic Perspectives on Literature (RLE Linguistics C: Applied Linguistics)*: Routledge.
+
 D'Angour, Armand. 2013. *"How did ancient Greek music sound?"* Accessed 05/06/2021. https://www.bbc.com/news/business-24611454.
+
 D'Angour, Armand. 2016. *"Euripides and the Sound of Music." In A Companion to Euripides*, 428-443.
+
 D'Angour, Armand. 2017a. *"Euripides Orestes Chorus: Κείμενο 8."* https://www.armand-dangour.com/wp-content/uploads/2011/11/Orestes-Chorus-Score.pdf.
+
 D'Angour, Armand. 2017b. *"Rediscovering Ancient Greek Music"* Accessed 08/05/2021. https://www.youtube.com/watch?v=4hOK7bU0S1Y&t=158s&ab_channel=ArmandD%27Angour.
+
 D'Angour, Armand. 2018. *"Ancient Greek music: now we finally know what it sounded like."* Accessed 05/06/2021. https://theconversation.com/ancient-greek-music-now-we-finally-know-what-it-sounded-like-99895.
+
 Gibson, Sophie. 2014. *Aristoxenus of Tarentum and the Birth of Musicology*: Routledge.
+
 Herodianus, Aelius. 1867. *Herodiani Technici reliquiae: Praefationem et Herodiani prosodiam catholicam continens.* Vol. 1: BG Teubneri.
+
 Humanities, The Oxford Research Centre in the. 2017. *"Ancient Greek Music: hearing long lost sounds again wins University Public Engagement Award."* https://torch.ox.ac.uk/article/ancient-greek-music-hearing-long-lost-sounds-again-wins-university-0.
+
 Landels, John G. 2002. *Music in ancient Greece and Rome*: Routledge.
+
 Lesky, Albin. 1964. *ΙΣΤΟΡΙΑ ΤΗΣ ΑΡΧΑΙΑΣ ΕΛΛΗΝΙΚΗΣ ΛΟΓΟΤΕΧΝΙΑΣ.* Θεσσαλονίκη.
+
 MIT, Infinite. 2021. *"Soft Machine—Architecture Machine Group (1984)."* https://infinite.mit.edu/video/soft-machine%E2%80%94architecture-machine-group-1984.
+
 Phillips, Tom, and Armand D'Angour. 2018. *Music, Text, and Culture in Ancient Greece*: Oxford University Press.
+
 Pindarus. 1821. *Pindari opera: Quae supersunt. Textum in genuina metra restituit... annotationem criticam scholia integra interpretationem Latinam commentarium perpetuum et indices adiecit*: Weigel.
+
 Pöhlmann, Egert, and Martin Litchfield West. 2001. *Documents of ancient Greek music: the extant melodies and fragments*: Oxford University Press.
+
 Saussure, Ferdinand De. 1979. *ΜΑΘΗΜΑΤΑ ΓΕΝΙΚΗΣ ΓΛΩΣΣΟΛΟΓΙΑΣ, ΦΙΛΟΣΟΦΙΑ - ΠΗΓΕΣ*: ΠΑΠΑΖΗΣΗΣ.
+
 Valéry, Paul. 1957. *´ Œuvres de Paul Valéry ´.* Paris.
+
 West, Martin Litchfield. 1987. *Introduction to Greek metre*: Clarendon Press.
+
 Βελουδής, Γιώργος. 1994. *Γραμματολογία. Θεωρία Λογοτεχνίας.* Αθήνα: Δωδώνη.
+
 Ιάμβλιχος. 2001. *«ΠΕΡΙ ΤΟΥ ΠΥΘΑΓΟΡΙΚΟΥ ΒΙΟΥ».* Edited by Αλέξιος Α. Πέτρου: ΖΗΤΡΟΣ.
+
 Καζάζης, Νεοκλής. 1998. *ΑΡΧΑΙΑ ΕΛΛΗΝΙΚΗ ΜΕΤΡΙΚΗ "ΣΥΝΑΓΩΓΗ ΜΕΛΕΤΩΝ".* ΘΕΣΣΑΛΟΝΙΚΗ: Βάνιας.
+
 Μπόρχες, Χόρχε Λουίς. 2006. *«Η τέχνη του στίχου».* Επιμέλεια: Calin-Andrei Mihailescu. Μετάφραση: Μαρία Τόμπρου.: Πανεπιστημιακές Εκδόσεις Κρήτης.
+
 Παπαζαχαρίου, Δημήτρης. 2012. *"Ψηφίδες για την ελληνική γλώσσα, ''Γλωσσάρι όρων γλωσσολογίας που χρησιμοποιούνται στα σχολικά εγχειρίδια''."* Accessed 15/05/2021. https://www.greek-language.gr/digitalResources/modern_greek/tools/lexica/glossology_edu/lemma.html?id=83&ur=0.
+
 Φιλιππίδης, Σταμάτης. 1993. *"Η θεωρία του ρυθμικού πεζού λόγου και η τυποποίηση της κριτικής στην αρχαιότητα."*  Ariadne 6:147-173.
